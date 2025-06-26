@@ -1,0 +1,9 @@
+﻿  Source.cpp
+C:\Users\welld\source\repos\ZAlgo\Source.cpp(18,23): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\welld\source\repos\ZAlgo\Source.cpp(27,56): warning C4267: 'argument': conversion from 'size_t' to '_Ty', possible loss of data
+          with
+          [
+              _Ty=int
+          ]
+C:\Users\welld\source\repos\ZAlgo\Source.cpp(50,11): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  ZAlgo.vcxproj -> C:\Users\welld\source\repos\ZAlgo\x64\Debug\ZAlgo.exe

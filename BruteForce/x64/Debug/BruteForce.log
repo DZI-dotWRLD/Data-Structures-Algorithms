@@ -1,0 +1,4 @@
+﻿  Main.cpp
+C:\Users\welld\source\repos\BruteForce\Main.cpp(7,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\welld\source\repos\BruteForce\Main.cpp(8,15): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+  BruteForce.vcxproj -> C:\Users\welld\source\repos\BruteForce\x64\Debug\BruteForce.exe

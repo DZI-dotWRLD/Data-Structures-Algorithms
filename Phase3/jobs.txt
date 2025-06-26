@@ -1,0 +1,12 @@
+Name Class Priority
+J001 A 5
+J002 C 8
+J003 L 4
+J004 B 7
+J005 D 6
+J006 Z 5
+J007 Z 2
+J008 Z 7
+J009 L 2
+J010 A 7
+
